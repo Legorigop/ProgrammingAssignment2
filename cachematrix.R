@@ -1,5 +1,6 @@
 ## This speciific R program aims to cache a matrix and consequently calculate its inverse via the
-## the following set of function (makeCacheMatrix and cacheSolve).
+## the following set of function (makeCacheMatrix and cacheSolve). 
+## This program is a requirement in the Coursera course of R programming (John Hopkins University), specifically that of Week 3.
 
 ## The following function sets user-input x as a given matrix.
 
